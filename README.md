@@ -14,4 +14,4 @@ This bundle is licensed under the GNUv2 :
 
 ## Bugs/Requests
 
-* You can [report a bug or request a feature here](https://github.com/arcaneadam/Drupal-Bundle-for-Aptana/issues)
+* You can [report a bug or request a feature here](https://github.com/arcaneadam/My-Aptana-Ruble/issues)
